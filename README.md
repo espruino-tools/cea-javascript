@@ -2,6 +2,8 @@
 
 Have fun with your espruino tools vanilla javascript app.
 
+The docs are located [here](here)
+
 ## 😀 Lets get started
 
 - Get started by running `cd my-app-name`
