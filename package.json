@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start":"concurrently \"cd host && npm i && npm i @espruino-tools/core && npm start\" \"cd connector && npm i && npm i @espruino-tools/core && npm start\" ",
+    "start": "concurrently \"cd host && npm i && npm i @espruino-tools/core && npm start\" \"cd connector && npm i && npm i @espruino-tools/core && npm start\" ",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
